@@ -1,0 +1,23 @@
+/* Add your custom styles here */
+
+/* Example styles */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+#profile_image{
+    width: 50%;
+    height: 30%;
+}
+
+.navbar {
+    background-color: #f8f9fa !important;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+#contactForm {
+    max-width: 600px;
+    margin: auto;
+}
